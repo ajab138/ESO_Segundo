@@ -1,5 +1,5 @@
 #1. Linea del tiempo de los acontecimientos más relevantes
-´´´mermaid
+```mermaid
 timeline
     title El Inicio de la Edad Media
     476 : "Caída del Imperio Romano de Occidente"
@@ -11,10 +11,10 @@ timeline
     1453 : "Caída del Imperio Bizantino bajo los turcos"
     527 : "Reinado de Justiniano en el Imperio Bizantino"
     1054 : "Cisma de Oriente entre la Iglesia Católica y la Iglesia Ortodoxa"
-´´´
+```
 
 #2. Esquema del tema
-´´´mermaid
+```mermaid
 graph TD
     A[El Inicio de la Edad Media]
     
@@ -57,4 +57,4 @@ graph TD
 
     M -->|527-565 d.C.| N
     M -->|1054 d.C.| O
-´´´
+```
