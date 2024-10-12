@@ -1,6 +1,6 @@
 
-# Instrucciones para Mejorar el Aprendizaje con ChatGPT
 
+```mermaid
 graph TD
     A[Mejorar el Aprendizaje con ChatGPT] --> B[Crear Analogías y Metáforas]
     A --> C[Actuar como Tutor o Profesor]
@@ -15,9 +15,9 @@ graph TD
     E --> E1[Crea una tabla que compare las células animales y vegetales.]
     F --> F1[Escribe un diálogo en francés entre dos amigos en una cafetería.]
     G --> G1[Resume el tema de la Revolución Francesa en 5 frases.]
+````
 
-
-
+# Instrucciones para Mejorar el Aprendizaje con ChatGPT
 ## 1. Analogías o Metáforas
 **Descripción**: Pídele a ChatGPT que use una metáfora o analogía para explicar conceptos abstractos o complicados de forma sencilla.
 
