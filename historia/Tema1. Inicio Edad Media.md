@@ -8,7 +8,6 @@ timeline
     800 : "Carlomagno es coronado emperador de Occidente"
     843 : "Tratado de Verdún divide el Imperio Carolingio"
     1000 : "Llegada de nuevos invasores: vikingos, magiares y sarracenos"
-    1453 : "Caída del Imperio Bizantino bajo los turcos"
 ```
 ```mermaid
 timeline
@@ -16,5 +15,5 @@ timeline
     476 : "Imperio Romano continua en oriente como Imperio bizantico con capital Constantinopla"
     527 : "Reinado de Justiniano en el Imperio Bizantino"
     1054 : "Cisma de Oriente entre la Iglesia Católica y la Iglesia Ortodoxa"
-    1453 : "Fin del imperio bizantino"
+    1453 : "Caída del Imperio Bizantino bajo los turcos"
 ```
