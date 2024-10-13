@@ -9,8 +9,6 @@ timeline
     843 : "Tratado de Verdún divide el Imperio Carolingio"
     1000 : "Llegada de nuevos invasores: vikingos, magiares y sarracenos"
     1453 : "Caída del Imperio Bizantino bajo los turcos"
-    527 : "Reinado de Justiniano en el Imperio Bizantino"
-    1054 : "Cisma de Oriente entre la Iglesia Católica y la Iglesia Ortodoxa"
 ```
 ```mermaid
 timeline
