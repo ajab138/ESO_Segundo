@@ -7,7 +7,7 @@ timeline
     751 : "Pipino el Breve se corona rey de los francos"
     800 : "Carlomagno es coronado emperador de Occidente"
     843 : "Tratado de Verdún divide el Imperio Carolingio"
-    1000 : "Llegada de nuevos invasores: vikingos, magiares y sarracenos"
+    1000 : "Llegada de segundas invasiones: vikingos, magiares y sarracenos"
 ```
 ```mermaid
 timeline
