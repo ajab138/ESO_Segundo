@@ -31,6 +31,8 @@ graph TD
 **Descripción**: Pídele a ChatGPT que actúe como un profesor que utiliza el método socrático (haciendo preguntas) o como un tutor especializado.
 
 **Ejemplo de pregunta**: Actúa como un profesor de química y guíame para entender la tabla periódica, haciéndome preguntas.
+**Ejemplo de pregunta**: Ve haciéndome pregunta tipo test
+**Ejemplo de pregunta**: Hazme de tutor al estilo Sócrates
 
 **Esquema**:
 - ChatGPT formula preguntas para guiarte paso a paso en la comprensión de un tema.
